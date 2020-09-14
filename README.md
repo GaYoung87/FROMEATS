@@ -1,12 +1,32 @@
-# For Our Site
+# FromEats
 
-* 앱 전용 화면이므로, 모바일 환경에서 구경해주세요!
-```
-http://i02a205.p.ssafy.io/
-```
+##   서비스 소개
 
+![picture1](./pictures/picture1.PNG)
 
+![picture2](./pictures/picture2.PNG)
 
+![picture3](./pictures/picture3.PNG)
+
+![picture4](./pictures/picture4.PNG)
+
+![picture5](./pictures/picture5.PNG)
+
+![picture6](./pictures/picture6.PNG)
+
+![picture7](./pictures/picture7.PNG)
+
+![picture8](./pictures/picture8.PNG)
+
+![picture9](./pictures/picture9.PNG)
+
+![picture13](./pictures/picture13.PNG)
+
+![picture14](./pictures/picture14.PNG)
+
+![picture11](./pictures/picture11.PNG)
+
+![picture12](./pictures/picture12.PNG)
 
 
 
